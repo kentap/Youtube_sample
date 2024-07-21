@@ -1,0 +1,6 @@
+streamlit
+google-api-python-client
+requests
+pandas
+boto3
+langchain_community

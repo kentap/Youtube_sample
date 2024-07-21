@@ -1,3 +1,6 @@
+##
+テストプログラムのため、とりあえず動くレベルです。
+
 # YouTube Video Information Analysis Tool
 
 This project is a Streamlit application that uses the YouTube Data API to retrieve video information based on a specified keyword and analyzes the trends of popular videos using AWS Bedrock.
